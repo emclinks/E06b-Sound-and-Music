@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/High glass.wav-b73b5852a354465e5cb6feb85f2ecb8b.sample"
+
+[deps]
+
+source_file="res://assets/High glass.wav"
+dest_files=[ "res://.import/High glass.wav-b73b5852a354465e5cb6feb85f2ecb8b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

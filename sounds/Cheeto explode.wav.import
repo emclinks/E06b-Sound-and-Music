@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Cheeto explode.wav-2994f5d3d4f361124c8da8cb1e854eb9.sample"
+
+[deps]
+
+source_file="res://assets/Cheeto explode.wav"
+dest_files=[ "res://.import/Cheeto explode.wav-2994f5d3d4f361124c8da8cb1e854eb9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
