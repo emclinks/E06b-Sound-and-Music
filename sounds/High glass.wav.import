@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/High glass.wav-b73b5852a354465e5cb6feb85f2ecb8b.sample"
+path="res://.import/High glass.wav-329c2c8eea80d579b0810aba8c90698e.sample"
 
 [deps]
 
-source_file="res://assets/High glass.wav"
-dest_files=[ "res://.import/High glass.wav-b73b5852a354465e5cb6feb85f2ecb8b.sample" ]
+source_file="res://sounds/High glass.wav"
+dest_files=[ "res://.import/High glass.wav-329c2c8eea80d579b0810aba8c90698e.sample" ]
 
 [params]
 

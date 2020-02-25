@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Spoon smack.wav-cfdb429367f5d092088df719795c0d0b.sample"
+path="res://.import/Spoon smack.wav-52ef45014acb6298643907ba5d8eb6a1.sample"
 
 [deps]
 
-source_file="res://assets/Spoon smack.wav"
-dest_files=[ "res://.import/Spoon smack.wav-cfdb429367f5d092088df719795c0d0b.sample" ]
+source_file="res://sounds/Spoon smack.wav"
+dest_files=[ "res://.import/Spoon smack.wav-52ef45014acb6298643907ba5d8eb6a1.sample" ]
 
 [params]
 

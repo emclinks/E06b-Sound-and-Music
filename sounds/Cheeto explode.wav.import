@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Cheeto explode.wav-2994f5d3d4f361124c8da8cb1e854eb9.sample"
+path="res://.import/Cheeto explode.wav-a7137c849a470db5344bd720ff741c4e.sample"
 
 [deps]
 
-source_file="res://assets/Cheeto explode.wav"
-dest_files=[ "res://.import/Cheeto explode.wav-2994f5d3d4f361124c8da8cb1e854eb9.sample" ]
+source_file="res://sounds/Cheeto explode.wav"
+dest_files=[ "res://.import/Cheeto explode.wav-a7137c849a470db5344bd720ff741c4e.sample" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Plastic metal thunk.wav-801a26bed4fbb08487fd91c39aa5ade2.sample"
+path="res://.import/Plastic metal thunk.wav-3d685d42e71f3d5f4afaf92e1634d187.sample"
 
 [deps]
 
-source_file="res://assets/Plastic metal thunk.wav"
-dest_files=[ "res://.import/Plastic metal thunk.wav-801a26bed4fbb08487fd91c39aa5ade2.sample" ]
+source_file="res://sounds/Plastic metal thunk.wav"
+dest_files=[ "res://.import/Plastic metal thunk.wav-3d685d42e71f3d5f4afaf92e1634d187.sample" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/Bag crush.wav-80095f058b0414a2bee3d4d7ed12f1f9.sample"
+path="res://.import/Bag crush.wav-62831fc8a0af482ab399cbc6aa885577.sample"
 
 [deps]
 
-source_file="res://assets/Bag crush.wav"
-dest_files=[ "res://.import/Bag crush.wav-80095f058b0414a2bee3d4d7ed12f1f9.sample" ]
+source_file="res://sounds/Bag crush.wav"
+dest_files=[ "res://.import/Bag crush.wav-62831fc8a0af482ab399cbc6aa885577.sample" ]
 
 [params]
 
